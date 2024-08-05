@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RanjanSubham
 - 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently looking for job opportunities in Analytics Domain
 - 💞️ I’m looking to collaborate on  With Business related projects 
 - 📫 by linkedIN (https://www.linkedin.com/in/subham-ranjan0525/)
 
